@@ -1,0 +1,17 @@
+/build/
+.idea
+/target
+.classpath
+.factorypath
+.project
+.settings
+/src/test/java/pro/rvision/example/
+logs/
+*.iml
+test-result/
+reportportal.lock
+reportportal.sync
+/gradle.properties
+/.gradle/
+/.allure/
+.DS_Store
